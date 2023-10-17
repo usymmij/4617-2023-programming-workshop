@@ -13,9 +13,15 @@ Name ________________________________________________
     - one joystick x axis controls the steering
     - can be on the same joystick or different ones
     
-(Fill for Arcade Drive) | _ | _
+(Fill for Arcade Drive) | <br> | <br>
 --|--|--
 acceleration joystick (circle one) | L | R 
 steering joystick (circle one) | L | R 
 
 ## Subcomponent Controls
+### Intake
+Intake In | Intake Out
+-|-
+### Elevator
+Up |Down
+-|-
